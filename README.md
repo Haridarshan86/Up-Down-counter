@@ -121,9 +121,16 @@ end
 
 <img width="1624" height="857" alt="image" src="https://github.com/user-attachments/assets/fa1b03bf-2a27-47ba-8113-1c7e558900e2" />
 
+
+
+
+
 ## simulation results of downcounter
 
-![Uploading image.png…]()
+
+
+
+<img width="1606" height="863" alt="image" src="https://github.com/user-attachments/assets/23d7b640-f6af-46e9-9eee-72e7501aa167" />
 
 
 
